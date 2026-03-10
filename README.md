@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ludvig
 
 M.Sc. Industrial Engineering and Management @ **KTH Royal Institute of Technology**  
 Fullstack & AI Consultant @ **Lawline**  
