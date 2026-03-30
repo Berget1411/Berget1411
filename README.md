@@ -7,7 +7,7 @@ Vice Chairman & Developer @ **KTH AI Society**
 
 | Project | Description |
 | :--- | :--- |
-| [risk-analysis](https://github.com/Berget1411/risk-analysis) | ML and DS part of KTH ME1316 Quantitative Business and Operations Analytics course and kaggle data science courses |
+| [risk-analysis](https://github.com/Berget1411/risk-analysis) | ML and DS part of KTH ME1316 Quantitative Business and Operations Analytics course alongside kaggle data science courses |
 | [open-clock](https://github.com/Berget1411/open-clock) | open-source time tracking app with project management, billable hours, and analytics |
 | [open-learn](https://github.com/Berget1411/open-learn) | open-source learning platform with AI assistant and subscription billing via Polar.sh |
 | [bergstrom-consulting](https://github.com/Berget1411/bergstrom-consulting) | personal consulting website built with Next.js, GSAP, and shadcn/ui |
