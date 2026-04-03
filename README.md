@@ -1,6 +1,6 @@
 ## Ludvig
 
-M.Sc. Industrial Engineering and Management @ **KTH Royal Institute of Technology**  
+M.Sc. Industrial Engineering and Management & Computer Science @ **KTH Royal Institute of Technology**  
 Fullstack & AI Consultant @ **Lawline**  
 Vice Chairman & Developer @ **KTH AI Society**  
 
