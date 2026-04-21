@@ -7,6 +7,7 @@ Vice Chairman & Developer @ **KTH AI Society**
 
 | Project | Description |
 | :--- | :--- |
+| [Designcn](https://github.com/Berget1411/designcn) | Shadcn design creator
 | [KTHAIS](https://github.com/kthaisociety) | Maintainer of the KTH AI Society organization
 | [risk-analysis](https://github.com/Berget1411/risk-analysis) | ML and DS part of KTH ME1316 Quantitative Business and Operations Analytics course alongside kaggle data science courses |
 | [better-clock](https://github.com/Berget1411/better-clock) | open-source time tracking app with project management, billable hours, and analytics |
